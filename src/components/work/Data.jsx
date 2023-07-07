@@ -1,10 +1,9 @@
-import Work1 from "../../assets/work1.jpg";
+import Work1 from "../../assets/work1.jpeg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
-import Work6 from "../../assets/work5.jpg";
-import Work7 from "../../assets/work5.jpg";
+import Work5 from "../../assets/work6.jpeg";
+
 
 export const projectsData = [
 	{
@@ -17,8 +16,9 @@ export const projectsData = [
 	{
 		id: 2,
 		image: Work2,
-		title: "App movil",
-		category: "app",
+		title: "SeaShop",
+		category: "web",
+		link: "https://rizkirifandi7.github.io/SeaShop/",
 	},
 	{
 		id: 3,
@@ -30,29 +30,16 @@ export const projectsData = [
 	{
 		id: 4,
 		image: Work4,
-		title: "App movil",
+		title: "GameTask",
 		category: "app",
+		link: "https://github.com/rizkirifandi7/GameTask-Rizki",
 	},
 	{
 		id: 5,
 		image: Work5,
-		title: "SeaShop",
-		category: "web",
-		link: "https://rizkirifandi7.github.io/SeaShop/",
-	},
-	{
-		id: 6,
-		image: Work6,
 		title: "Pokemon API",
 		category: "web",
 		link: "https://rizkirifandi7.github.io/Web-API-Pokemon/",
-	},
-	{
-		id: 7,
-		image: Work7,
-		title: "InDoor",
-		category: "web",
-		link: "https://rizkirifandi7.github.io/InDoor/",
 	},
 ];
 
