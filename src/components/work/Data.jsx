@@ -3,6 +3,8 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work5.jpg";
+import Work7 from "../../assets/work5.jpg";
 
 export const projectsData = [
 	{
@@ -40,14 +42,14 @@ export const projectsData = [
 	},
 	{
 		id: 6,
-		image: Work5,
+		image: Work6,
 		title: "Pokemon API",
 		category: "web",
 		link: "https://rizkirifandi7.github.io/Web-API-Pokemon/",
 	},
 	{
 		id: 7,
-		image: Work5,
+		image: Work7,
 		title: "InDoor",
 		category: "web",
 		link: "https://rizkirifandi7.github.io/InDoor/",
